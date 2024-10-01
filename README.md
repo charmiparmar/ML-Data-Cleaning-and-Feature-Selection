@@ -3,8 +3,7 @@ This project involves data preprocessing, exploratory data analysis, and predict
 
 ---
 
-## Author: Charmi Parmar  
-**NUID**: 002766700
+## Author: Charmi Parmar
 
 ---
 
